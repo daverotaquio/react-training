@@ -46,6 +46,7 @@
 
 .idea/**/Project_Default.xml
 .idea/vcs.xml
+.DS_Store
 
 # CMake
 cmake-build-*/
